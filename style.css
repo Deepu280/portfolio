@@ -11,6 +11,11 @@
     cursor: none;
     }
     
+    .cursor-dot{
+        width: 5px;
+        height: 5px;
+        background-color: #7f1dff;
+    }
     .cursor-outline{
         width: 30px;
         height: 30px;
