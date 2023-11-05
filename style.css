@@ -42,7 +42,7 @@
     nav ul li a {
         color: #000000;
         text-decoration: none;
-        font-size: 18px;
+        font-size: 16px;
         position: relative;
     }
     
@@ -67,11 +67,11 @@
     }
     
     .header-text h1{
-        font-size: 60px;
-        margin-top: 20px;
+        font-size: 50px;
+        margin-top: -200px;
     }
     .header-text h1 span {
-        color: #0099ff;
+        color: #7f1dff;
     }
     
     /* ------------about--------------*/
